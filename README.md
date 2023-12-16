@@ -1,10 +1,10 @@
-# my_website
+# my website
  Create and build your business websites and android applications with us
  
 
 
 ## Description
--All about website Development. please contact Us for more...
+-All about website Development. please contact Us for more details
 
 ## Features
 -HTML
@@ -20,7 +20,7 @@ uploading soon...
 
 ## Usage
 
--Clone the repository and open it in any HTML Editor. Run the website using your favourite browser.
+-Clone the repository and open it in any HTML Editor. Run the website using your favourite browser i.e chrome
 
 
 ## Contributing
