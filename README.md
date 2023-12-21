@@ -1,7 +1,6 @@
 # my website
  Create and build your business websites and android applications with us
  
-
 ## Description
 -All about website Development. please contact Us for more details
 
@@ -12,7 +11,7 @@
 
 ## Usage
 
--Clone the repository and open it in any HTML Editor. Run the website using your favourite browser i.e chrome
+-Clone the repository and open it in any HTML Editor. Run the website using your favourite browser
 
 
 ## Contributing
