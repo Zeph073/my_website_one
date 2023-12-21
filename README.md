@@ -10,11 +10,6 @@
 
 -CSS
 
-
-
-## Screenshots
-uploading soon...
-
 ## Usage
 
 -Clone the repository and open it in any HTML Editor. Run the website using your favourite browser i.e chrome
