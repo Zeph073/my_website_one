@@ -11,7 +11,9 @@
 
 ## Usage
 
--Clone the repository and open it in any HTML Editor. Run the website using your favourite browser
+-Clone the repository and open it in any HTML Editor.
+https://github.com/Zeph073/my_website_one
+Run the website using your favourite browser
 
 
 ## Contributing
