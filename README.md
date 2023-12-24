@@ -1,5 +1,5 @@
 # my website
- Create and build your websites and android applications with us
+ Create and build your websites and android applications with us.
  
 ## Description
 -All about website Development. please contact Us for more details
